@@ -20,23 +20,23 @@
 }
 
 .damn2 a {
-    color: #ed6a5a;
+    color: #D35E5E;
 }
 
 .damn3 a {
-    color: #ed6a5a;
+    color: #D35E5E;
 }
 
 .damn4 a {
-    color: #fcffeb;
+    color: #ffffff;
 }
 
 body {
-    background-color: #fcffeb;
+    background-color: #ffffff;
 }
 
 #contenedorlogo {
-    background: #fcffeb;
+    background: #ffffff;
 }
 
 #logo {
@@ -45,7 +45,7 @@ body {
     padding-top: 14px;
     width: 180px;
     height: 160px;
-    background: #fcffeb;
+    background: #ffffff;
     margin-top: -156px;
     box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
     border: 1px solid #5b2333;
@@ -57,7 +57,7 @@ body {
     margin-top: -9px;
     font-family: "tall";
     font-size: 38px;
-    color: #ED6A5A;
+    color: #D35E5E;
     padding-bottom: -10px;
 }
 
@@ -71,7 +71,7 @@ body {
     font-size: 38px;
     border: none;
     width: 100px;
-    background: #FCFFEB;
+    background: #ffffff;
     height: 7px;
     margin-top: -44px;
 }
@@ -84,7 +84,7 @@ body {
     font-family: 'tall';
     font-size: 20pt;
     font-weight: bold;
-    background: #FCFFEB;
+    background: #ffffff;
     border-radius: 0px;
     box-shadow: 0px 1px 29px -3px rgba(0, 0, 0, 0.36);
 }
@@ -109,7 +109,7 @@ body {
 }
 
 .icon-bar {
-    background-color: #ed6a5a;
+    background-color: #D35E5E;
 }
 
 #izquierda {
@@ -138,7 +138,7 @@ body {
 }
 
 #subtercero {
-    border: 1pt solid #fcffeb;
+    border: 1pt solid #ffffff;
     background-color: #d3e9f3;
     margin-top: 10px;
     margin-left: -5px;
@@ -147,7 +147,7 @@ body {
 }
 
 #subsubtercero {
-    background-color: #fcffeb;
+    background-color: #ffffff;
     margin-top: 60px;
     margin-left: 25px;
     width: 795px;
@@ -156,7 +156,7 @@ body {
 
 #myCarousel {
     margin-top: 85px;
-    border: 6px solid #fcffeb;
+    border: 6px solid #ffffff;
     width: 100%;
     padding: 0px;
 }
@@ -168,8 +168,8 @@ body {
 
 #franja {
     margin-top: 25px;
-    color: #fcffeb;
-    background-color: #ed6a5a;
+    color: #ffffff;
+    background-color: #D35E5E;
     font-family: 'beauty';
     font-size: 45px;
     padding-top: 3px;
@@ -184,26 +184,26 @@ body {
 
 .segundo {
     background-color: #d3e9f3;
-    border: 1pt solid #fcffeb;
+    border: 1pt solid #ffffff;
     padding: 0px;
     margin-top: 10px;
 }
 
 .tendencias {
-    background-color: #ed6a5a;
+    background-color: #D35E5E;
     margin-top: 10px;
-    box-shadow: inset 0 0 0 15px #ed6a5a, inset 0 0 0 16px #fcffeb;
+    box-shadow: inset 0 0 0 15px #D35E5E, inset 0 0 0 16px #fcffeb;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 35px;
     font-family: 'beauty';
-    color: #fcffeb;
+    color: #ffffff;
 }
 
 .clasificados {
     background-color: #d3e9f3;
     margin-top: 10px;
-    box-shadow: inset 0 0 0 15px #d3e9f3, inset 0 0 0 16px #fcffeb;
+    box-shadow: inset 0 0 0 15px #d3e9f3, inset 0 0 0 16px #ffffff;
     padding-top: 20px;
     padding-bottom: 20px;
     font-family: 'beauty';
@@ -267,13 +267,13 @@ body {
 }
 
 .losmaselegidos {
-    background-color: #ed6a5a;
+    background-color: #D35E5E;
     margin-top: 20px;
-    box-shadow: inset 0 0 0 15px #ed6a5a, inset 0 0 0 16px #fcffeb;
+    box-shadow: inset 0 0 0 15px #D35E5E, inset 0 0 0 16px #ffffff;
     text-align: center;
     padding-bottom: 40px;
     font-family: 'beauty';
-    color: #fcffeb;
+    color: #ffffff;
     padding-top: 10px;
     height: 268, 592px;
 }
@@ -300,7 +300,7 @@ body {
     background-color: #5B2333;
     font-family: 'beauty';
     font-size: 20pt;
-    color: #fcffeb;
+    color: #ffffff;
     margin: 0 auto;
     display: block;
     padding-top: 2px;
@@ -312,14 +312,14 @@ body {
 
 .pie {
     margin-top: 125px;
-    background-color: #9FA093;
+    background-color: #9B9B9B;
     padding-top: 25px;
     padding-bottom: 25px;
 }
 
 .izq h5 {
     font-family: 'beauty';
-    color: #fcffeb;
+    color: #ffffff;
     font-size: 35pt;
 }
 
@@ -332,13 +332,13 @@ body {
 
 .izq p {
     font-family: 'tall';
-    color: #fcffeb;
+    color: #ffffff;
     font-size: 19pt;
 }
 
 .dere h5 {
     font-family: 'beauty';
-    color: #fcffeb;
+    color: #ffffff;
     font-size: 35pt;
 }
 
@@ -351,7 +351,7 @@ body {
 
 .dere p {
     font-family: 'tall';
-    color: #fcffeb;
+    color: #ffffff;
     font-size: 19pt;
 }
 
@@ -361,7 +361,7 @@ body {
     padding-bottom: 30px;
     font-size: 17pt;
     font-family: 'tall';
-    color: #fcffeb;
+    color: #ffffff;
     background-color: #2A252D;
 }
 
@@ -445,7 +445,7 @@ body {
         font-family: 'tall';
         font-size: 20pt;
         font-weight: bold;
-        background: #FCFFEB;
+        background: #ffffff;
         margin-left: 10px;
         height: 130px;
     }
@@ -665,8 +665,8 @@ body {
 
 /*  Segunda página */
 .filtro {
-    background-color: #ed6a5a;
-    color: #fcffeb;
+    background-color: #D35E5E;
+    color: #ffffff;
     font-family: 'tall';
     font-size: 50pt;
     margin-top: 44px;
@@ -684,7 +684,7 @@ body {
 
 .buscar {
     font-family: 'tall';
-    background-color: #fcffeb;
+    background-color: #ffffff;
     color: #C9C0C1;
     font-size: 20pt;
     margin-top: 44px;
@@ -718,7 +718,7 @@ body {
     padding-right: 0px;
     padding-left: 0px;
     text-align: right;
-    color: #ed6a5a;
+    color: #D35E5E;
     font-family: 'tall';
     font-size: 22pt;
 
@@ -743,7 +743,7 @@ body {
 
 .marcoproducto {
     background: #2A252D;
-    color: #FCFFEB;
+    color: #ffffff;
     height: 60px;
     margin-top: -70px;
     font-family: 'tall';
@@ -753,7 +753,7 @@ body {
 }
 
 .precio {
-    color: #ED6A5A;
+    color: #D35E5E;
 }
 
 .flecha {
@@ -770,7 +770,7 @@ body {
     font-family: 'tall';
     font-size: 20pt;
     font-weight: bold;
-    background: #FCFFEB;
+    background: #ffffff;
     width: 70%;
     border-radius: 0px;
     margin-top: 0px;
@@ -798,7 +798,7 @@ body {
     padding-right: 0px;
     padding-left: 0px;
     text-align: right;
-    color: #ed6a5a;
+    color: #D35E5E;
     font-family: 'tall';
     font-size: 22pt;
     padding-bottom: 60px;
@@ -884,7 +884,7 @@ body {
     padding-top: 14px;
     width: 180px;
     height: 160px;
-    background: #fcffeb;
+    background: #ffffff;
     margin-top: -82px;
     box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
     border: 1px solid #5b2333;
@@ -897,7 +897,7 @@ body {
     padding-top: 14px;
     width: 144px;
     height: 132.38px;
-    background: #fcffeb;
+    background: #ffffff;
     margin-top: -82px;
     box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
     border: 1px solid #5b2333;
@@ -905,14 +905,14 @@ body {
 }
 
 #servicios {
-    color: #ED6A5A;
+    color: #D35E5E;
 }
 
 #botonservicio {
     border: none;
     text-align: center;
     font-size: 38px;
-    background: #fcffeb;
+    background: #ffffff;
     width: 120px;
 }
 
@@ -936,7 +936,7 @@ body {
 }
 
 .navbar2elements span a {
-    color: #ED6A5A;
+    color: #D35E5E;
 }
 
 @media (min-width: 768px) and (max-width:942px) {
@@ -970,14 +970,14 @@ body {
 }
 
 .contenedortabs {
-    background: #ED6A5A;
+    background: #D35E5E;
     margin-top: 10px;
     height: 65px;
     box-shadow: 0px -1px 2px 0px rgba(188, 83, 75, 1);
 }
 
 .tab1 {
-    background: #ED6A5A;
+    background: #D35E5E;
     margin-top: 25px;
     box-shadow: 0px -1px 7px 0px rgba(188, 83, 75, 1);
     padding-top: 10px;
@@ -985,7 +985,7 @@ body {
 }
 
 .tab2 {
-    background: #ED6A5A;
+    background: #D35E5E;
     margin-top: 25px;
     box-shadow: 0px -1px 7px 0px rgba(188, 83, 75, 1);
     padding-top: 10px;
@@ -994,7 +994,7 @@ body {
 
 #serviciotab {
     text-align: center;
-    color: #fcffeb;
+    color: #ffffff;
     font-family: 'tall';
     font-size: 25pt;
     padding-left: 40%;
@@ -1002,7 +1002,7 @@ body {
 
 #stafftab {
     text-align: center;
-    color: #fcffeb;
+    color: #ffffff;
     font-family: 'tall';
     font-size: 25pt;
     padding-left: 40%;
@@ -1013,7 +1013,7 @@ body {
     padding-right: 0px;
     padding-left: 0px;
     text-align: right;
-    color: #ed6a5a;
+    color: #D35E5E;
     font-family: 'tall';
     font-size: 22pt;
     padding-bottom: 60px;
@@ -1060,7 +1060,7 @@ body {
 }
 
 #sustrabajos {
-    color: #ed6a5a;
+    color: #D35E5E;
 }
 
 #instagram {
@@ -1092,7 +1092,7 @@ body {
 }
 
 #sustrabajos2 {
-    color: #ed6a5a;
+    color: #D35E5E;
 }
 
 #instagram2 {
@@ -1125,7 +1125,7 @@ body {
 }
 
 #sustrabajos3 {
-    color: #ed6a5a;
+    color: #D35E5E;
 }
 
 #instagram3 {
@@ -1154,19 +1154,19 @@ body {
 }
 
 .servicios {
-    color: #fcffeb;
+    color: #ffffff;
 }
 
 .staff {
-    color: #fcffeb;
+    color: #ffffff;
 }
 
 .servicios:hover {
-    color: #fcffeb;
+    color: #ffffff;
 }
 
 .staff:hover {
-    color: #fcffeb;
+    color: #ffffff;
 }
 
 .descripcionservicios {
