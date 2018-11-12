@@ -20,11 +20,11 @@
 }
 
 .damn2 a {
-    color: #D35E5E;
+    color: #ED6A5A;
 }
 
 .damn3 a {
-    color: #D35E5E;
+    color: #ED6A5A;
 }
 
 .damn4 a {
@@ -57,7 +57,7 @@ body {
     margin-top: -9px;
     font-family: "tall";
     font-size: 38px;
-    color: #D35E5E;
+    color: #ED6A5A;
     padding-bottom: -10px;
 }
 
@@ -109,7 +109,7 @@ body {
 }
 
 .icon-bar {
-    background-color: #D35E5E;
+    background-color: #ED6A5A;
 }
 
 #izquierda {
@@ -169,7 +169,7 @@ body {
 #franja {
     margin-top: 25px;
     color: #ffffff;
-    background-color: #D35E5E;
+    background-color: #ED6A5A;
     font-family: 'beauty';
     font-size: 45px;
     padding-top: 3px;
@@ -190,9 +190,9 @@ body {
 }
 
 .tendencias {
-    background-color: #D35E5E;
+    background-color: #ED6A5A;
     margin-top: 10px;
-    box-shadow: inset 0 0 0 15px #D35E5E, inset 0 0 0 16px #fcffeb;
+    box-shadow: inset 0 0 0 15px #ED6A5A, inset 0 0 0 16px #fcffeb;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 35px;
@@ -267,9 +267,9 @@ body {
 }
 
 .losmaselegidos {
-    background-color: #D35E5E;
+    background-color: #ED6A5A;
     margin-top: 20px;
-    box-shadow: inset 0 0 0 15px #D35E5E, inset 0 0 0 16px #ffffff;
+    box-shadow: inset 0 0 0 15px #ED6A5A, inset 0 0 0 16px #ffffff;
     text-align: center;
     padding-bottom: 40px;
     font-family: 'beauty';
@@ -665,7 +665,7 @@ body {
 
 /*  Segunda página */
 .filtro {
-    background-color: #D35E5E;
+    background-color: #ED6A5A;
     color: #ffffff;
     font-family: 'tall';
     font-size: 50pt;
@@ -718,7 +718,7 @@ body {
     padding-right: 0px;
     padding-left: 0px;
     text-align: right;
-    color: #D35E5E;
+    color: #ED6A5A;
     font-family: 'tall';
     font-size: 22pt;
 
@@ -753,7 +753,7 @@ body {
 }
 
 .precio {
-    color: #D35E5E;
+    color: #ED6A5A;
 }
 
 .flecha {
@@ -798,7 +798,7 @@ body {
     padding-right: 0px;
     padding-left: 0px;
     text-align: right;
-    color: #D35E5E;
+    color: #ED6A5A;
     font-family: 'tall';
     font-size: 22pt;
     padding-bottom: 60px;
@@ -905,7 +905,7 @@ body {
 }
 
 #servicios {
-    color: #D35E5E;
+    color: #ED6A5A;
 }
 
 #botonservicio {
@@ -936,7 +936,7 @@ body {
 }
 
 .navbar2elements span a {
-    color: #D35E5E;
+    color: #ED6A5A;
 }
 
 @media (min-width: 768px) and (max-width:942px) {
@@ -970,14 +970,14 @@ body {
 }
 
 .contenedortabs {
-    background: #D35E5E;
+    background: #ED6A5A;
     margin-top: 10px;
     height: 65px;
     box-shadow: 0px -1px 2px 0px rgba(188, 83, 75, 1);
 }
 
 .tab1 {
-    background: #D35E5E;
+    background: #ED6A5A;
     margin-top: 25px;
     box-shadow: 0px -1px 7px 0px rgba(188, 83, 75, 1);
     padding-top: 10px;
@@ -985,7 +985,7 @@ body {
 }
 
 .tab2 {
-    background: #D35E5E;
+    background: #ED6A5A;
     margin-top: 25px;
     box-shadow: 0px -1px 7px 0px rgba(188, 83, 75, 1);
     padding-top: 10px;
@@ -1013,7 +1013,7 @@ body {
     padding-right: 0px;
     padding-left: 0px;
     text-align: right;
-    color: #D35E5E;
+    color: #ED6A5A;
     font-family: 'tall';
     font-size: 22pt;
     padding-bottom: 60px;
@@ -1060,7 +1060,7 @@ body {
 }
 
 #sustrabajos {
-    color: #D35E5E;
+    color: #ED6A5A;
 }
 
 #instagram {
@@ -1092,7 +1092,7 @@ body {
 }
 
 #sustrabajos2 {
-    color: #D35E5E;
+    color: #ED6A5A;
 }
 
 #instagram2 {
@@ -1125,7 +1125,7 @@ body {
 }
 
 #sustrabajos3 {
-    color: #D35E5E;
+    color: #ED6A5A;
 }
 
 #instagram3 {
